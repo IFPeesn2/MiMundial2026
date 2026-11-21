@@ -1,0 +1,25 @@
+.redes{
+    width:35px ;
+    height: 35px;
+}
+.redessociales{
+    text-align: left;
+   
+}footer{
+    
+    color: black;
+}
+.footer{
+    padding: 10px;
+}
+.redes:hover{
+    transform: scale(1.5);
+    transition: 0.5s ease-in-out;
+}
+h3{
+    font-size: 30px;
+    text-align: left;
+}
+.logos{
+padding: 22px;
+}

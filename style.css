@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    height: 350px;
+    width: 100%;
+}
+
+.redes{
+    width:35px ;
+    height: 35px;
+}
+.redessociales{
+    text-align: left;
+   
+}footer{
+    
+    color: black;
+}
+.footer{
+    padding: 10px;
+}
+.redes:hover{
+    transform: scale(1.5);
+    transition: 0.5s ease-in-out;
+}
+h3{
+    font-size: 30px;
+    text-align: left;
+}
+.logos{
+padding: 22px;
+}
+.contenido{
+    text-align: justify;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:normal;
+  font-style: normal;
+  font-size: large;
+}
+.titulos{
+    font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:900px;
+  font-style:initial;
+  font-size: large;
+  font-size: xx-large;
+}
+footer{
+    background-color: #F4EFE6;
+}
+.imglogos{
+    height: 4x;
+    width: 4px;
+    display: flex;
+    flex-direction: row;
+}
+.escudos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 15px;
+    padding-bottom: 25px;
+}
+.escudo{
+      height:200px;
+    width:180px;
+}
+main{
+    margin: 10px;
+}
+header{
+    padding-top: 10px;
+}
+#menu{
+    position: sticky;
+    top: 0;
+}
+.contenido1{
+    padding-top: 10px;
+   text-align: justify;
+ font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:normal;
+  font-style: italic;
+  font-size: large;
+}
+ul{
+    padding: 20px;
+}
+.fixture{
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    height: 500px;
+    width: 85%;
+    padding-top: 15px;
+}
