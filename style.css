@@ -16,13 +16,18 @@ body{
 .redessociales{
     text-align: left;
     color:black;
+      font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:900px;
+  font-style:initial;
+  font-size: large;
+  font-size: xx-large;
    
 }
 .redes1{
     color:black;
 }
 footer{
-    
     color: black;
 }
 .footer{
