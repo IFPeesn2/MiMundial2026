@@ -23,6 +23,9 @@ body{
 .footer{
     padding: 10px;
 }
+main{
+    color:white;
+}
 .redes:hover{
     transform: scale(1.5);
     transition: 0.5s ease-in-out;
