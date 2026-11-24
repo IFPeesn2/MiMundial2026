@@ -33,6 +33,7 @@ main{
 h3{
     font-size: 30px;
     text-align: left;
+    color:white;
 }
 .logos{
 padding: 22px;
@@ -44,6 +45,7 @@ padding: 22px;
   font-weight:normal;
   font-style: normal;
   font-size: large;
+  color: white;
 }
 .titulos{
     font-family: "Montserrat", sans-serif;
@@ -52,6 +54,7 @@ padding: 22px;
   font-style:initial;
   font-size: large;
   font-size: xx-large;
+  color: white;
 }
 footer{
     background-color: #F4EFE6;
