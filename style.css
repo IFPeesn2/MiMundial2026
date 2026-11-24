@@ -15,6 +15,7 @@ body{
 }
 .redessociales{
     text-align: left;
+    color:black
    
 }footer{
     
@@ -23,9 +24,7 @@ body{
 .footer{
     padding: 10px;
 }
-main{
-    color:white;
-}
+
 .redes:hover{
     transform: scale(1.5);
     transition: 0.5s ease-in-out;
@@ -87,6 +86,7 @@ header{
     top: 0;
 }
 .contenido1{
+    color: white;
     padding-top: 10px;
    text-align: justify;
  font-family: "Montserrat", sans-serif;
@@ -96,6 +96,7 @@ header{
   font-size: large;
 }
 ul{
+    color: white;
     padding: 20px;
 }
 .fixture{
@@ -105,4 +106,7 @@ ul{
     height: 500px;
     width: 85%;
     padding-top: 15px;
+}
+.contenido2{
+    color: black;
 }
