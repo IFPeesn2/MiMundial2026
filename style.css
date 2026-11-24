@@ -15,7 +15,7 @@ body{
 }
 .redessociales{
     text-align: left;
-    color:black
+    color:black;
    
 }footer{
     
@@ -109,4 +109,7 @@ ul{
 }
 .contenido2{
     color: black;
+}
+.btn-icon{
+    color: white;
 }
