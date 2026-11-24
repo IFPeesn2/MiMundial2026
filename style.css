@@ -6,7 +6,9 @@ img{
     height: 350px;
     width: 100%;
 }
-
+body{
+    background-color: black;
+}
 .redes{
     width:35px ;
     height: 35px;
